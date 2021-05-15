@@ -1,3 +1,6 @@
+![Screenshot (284)](https://user-images.githubusercontent.com/43934285/118378453-9b2b8b00-b5f1-11eb-8785-2fc010d47dee.png)
+![Screenshot (283)](https://user-images.githubusercontent.com/43934285/118378463-abdc0100-b5f1-11eb-87d9-d31d35563071.png)
+![Screenshot (289)](https://user-images.githubusercontent.com/43934285/118378462-abdc0100-b5f1-11eb-8467-dbc18ae74bdc.png)
 # frequencycomputation-react-app
 this is a reactjs based web app which calculates the frequecy of top mostly occured words in the document  or file after fetching it.
 --------------------------------------------------------------------------------------------------------------------------------------
