@@ -1,5 +1,5 @@
-import React, {useState} from 'react'
-import { Layout, Button, Space, Table, Form, Input, Checkbox } from 'antd'
+import React from 'react'
+import { Layout, Button, Table, Form, Input } from 'antd'
 
 import 'antd/dist/antd.css'
 import './App.css'
@@ -50,7 +50,7 @@ function App() {
     const obj_sorted = Object.entries(obj).sort((a, b) => b[1] - a[1]);
      //console.log(obj_sorted)
     var data = [];
-      for (var i = 0; i < event.count; i++) {
+      for ( i = 0; i < event.count; i++) {
         data.push({
           Srno: i + 1,
           Word: obj_sorted[i][0],
