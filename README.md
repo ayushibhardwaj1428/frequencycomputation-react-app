@@ -5,14 +5,20 @@ this is a reactjs based web app which calculates the frequecy of top mostly occu
 
 
 The library which is used for Layout is Antd and the components Layout, Button, Space, Table, Form, Input is used from antd layout.
+-------------------------------------------------------------------------------------------------------------------------------------
 Functional Component -> onClick
+---------------------------------------------------------------------------------------------------------------------------------------
 state variable -> updateDataSource
+----------------------------------------------------------------------------------------------------------------------------------------
 fetch method is used for fetching the data from the given url then
 fetched data was transformed in the form of array with obj object
+----------------------------------------------------------------------------------------------------------------------------------------
 Obj_sorted function is used for sorting the fetched data
 After sorting, the frequency is calculated using one loop 
 which is then pushed in the table with the help of state variable updateDataSource.
 App is able to display the frequency of top n words.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Live url of this react app is : https://naughty-yalow-6fb8fb.netlify.app/
 -------------------------------------------------------------------------------------------------------------------------------------------
 UI accepts input in the form of integer
 and display frequency of words 
